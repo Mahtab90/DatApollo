@@ -46,6 +46,8 @@ This repository contains:
 ---
 
 ## Installation and Setup
+## Installation
+Apollo tutorial is available on [YouTube](https://www.youtube.com/@apolloruntimesystem6686/featured).
 
 ### Prerequisites
 
