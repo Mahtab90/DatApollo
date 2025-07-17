@@ -1,0 +1,32 @@
+### 🦠 COVID-19 Dataset Information
+
+The COVID-19 data used in this experiment were sourced from the public repository:
+https://github.com/beoutbreakprepared/nCoV2019
+
+Original reference:
+Xu et al., 2020 — *Epidemiological data from the nCoV-2019 outbreak: early descriptions from publicly available data*.
+
+---
+
+#### 📊 Dataset Properties
+
+| Size   | Number of Transactions | Time Period                  |
+|--------|------------------------|------------------------------|
+| 5.9 GB | 3,048,576              | December 2019 – January 2020 |
+
+---
+
+#### 🧬 Selected Attributes (10 out of 31 total)
+
+| Attribute         | Description                                                                 |
+|------------------|-----------------------------------------------------------------------------|
+| `ID`             | Unique identifier for each reported case                                     |
+| `age`            | Age of the individual                                                        |
+| `gender`         | Gender of the individual (male/female)                                       |
+| `city`           | City where the case was reported                                             |
+| `province`       | Province where the case was reported                                         |
+| `country`        | Country where the case was reported                                          |
+| `latitude`       | Latitude of the reported location                                            |
+| `longitude`      | Longitude of the reported location                                           |
+| `symptoms`       | Description of symptoms reported                                             |
+| `lives in Wuhan` | Binary flag: `0` = does not live in Wuhan, `1` = lives in Wuhan              |
