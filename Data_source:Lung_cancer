@@ -1,0 +1,34 @@
+### 🫁 Lung Cancer Dataset
+
+The **Lung Cancer dataset** used in this study was extracted from the **Prostate, Lung, Colorectal, and Ovarian (PLCO) Cancer Screening Trial**, a large-scale, multi-year study conducted by the U.S. National Cancer Institute (NCI).
+
+📄 **References**:  
+- Prorok et al., 2000 — *Design of the Prostate, Lung, Colorectal and Ovarian (PLCO) Cancer Screening Trial*  
+- Gohagan et al., 2000 — *The Prostate, Lung, Colorectal and Ovarian (PLCO) Cancer Screening Trial of the National Cancer Institute*
+
+🔗 [PLCO official resource page](https://biometry.nci.nih.gov/cdas/plco/)
+
+---
+
+#### 📑 Description
+
+This dataset provides a rich source of **demographic, behavioral, clinical, and lifestyle variables** collected from over 150,000 participants across the U.S. It includes variables such as:
+
+- Age, gender, and smoking status
+- Screening test results and follow-up diagnostics
+- Family history of cancer
+- Medical history and vital statistics
+
+The data is commonly used for:
+- **Early detection research**
+- **Risk prediction modeling**
+- **Survival analysis**
+- **Feature selection in ML models related to cancer prognosis**
+
+> 📎 Due to the sensitive nature of the dataset, researchers must apply for access through the NCI's Cancer Data Access System (CDAS).
+
+---
+
+#### 📊 Use in This Study
+
+We selected this dataset to evaluate predictive models in the context of lung cancer detection and to validate features related to lifestyle risk factors and screening outcomes.
